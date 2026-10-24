@@ -1,0 +1,31 @@
+year,nlcd_code,class_name,area_km2,percent
+2001,11,Open water,313.392,3.641
+2001,21,"Developed, open space",436.787,5.075
+2001,22,"Developed, low intensity",387.703,4.505
+2001,23,"Developed, medium intensity",154.636,1.797
+2001,24,"Developed, high intensity",57.764,0.671
+2001,31,Barren land,36.941,0.429
+2001,41,Deciduous forest,111.668,1.297
+2001,42,Evergreen forest,1728.643,20.085
+2001,43,Mixed forest,374.393,4.350
+2001,52,Shrub/scrub,636.402,7.394
+2001,71,Grassland/herbaceous,199.195,2.314
+2001,81,Pasture/hay,1190.491,13.833
+2001,82,Cultivated crops,103.683,1.205
+2001,90,Woody wetlands,2490.071,28.933
+2001,95,Emergent herbaceous wetlands,384.670,4.470
+2021,11,Open water,316.507,3.678
+2021,21,"Developed, open space",428.230,4.976
+2021,22,"Developed, low intensity",415.904,4.832
+2021,23,"Developed, medium intensity",245.011,2.847
+2021,24,"Developed, high intensity",88.588,1.029
+2021,31,Barren land,39.615,0.460
+2021,41,Deciduous forest,84.190,0.978
+2021,42,Evergreen forest,2114.119,24.564
+2021,43,Mixed forest,364.179,4.231
+2021,52,Shrub/scrub,374.632,4.353
+2021,71,Grassland/herbaceous,209.869,2.439
+2021,81,Pasture/hay,972.005,11.294
+2021,82,Cultivated crops,100.228,1.165
+2021,90,Woody wetlands,2539.894,29.512
+2021,95,Emergent herbaceous wetlands,313.469,3.642

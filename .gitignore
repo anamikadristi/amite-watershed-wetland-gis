@@ -1,0 +1,19 @@
+# Python caches and environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Raw downloads (large public files; recreate with scripts/01_download_data.py)
+data_raw/
+*.tif
+*.tif.aux.xml
+*.zip
+*.part
+
+# Office and OS files
+*.docx
+*.xlsx
+.DS_Store
+Thumbs.db

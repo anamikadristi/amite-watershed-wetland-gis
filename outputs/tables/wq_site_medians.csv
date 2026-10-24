@@ -1,0 +1,395 @@
+site_id,param,n,median,n_censored,first_year,last_year,MonitoringLocationName,huc12,huc12_name
+LDEQ-1099,DO_mgL,12,7.55,0,2013,2014,Comite River near Stevendale Road train bridge,080702020608,Hurricane Creek-Comite River
+LDEQ-1099,SC_uScm,12,84.25,0,2013,2014,Comite River near Stevendale Road train bridge,080702020608,Hurricane Creek-Comite River
+LDEQ-1099,TP_mgL,12,0.15,0,2013,2014,Comite River near Stevendale Road train bridge,080702020608,Hurricane Creek-Comite River
+LDEQ-1099,Temp_C,12,19.66,0,2013,2014,Comite River near Stevendale Road train bridge,080702020608,Hurricane Creek-Comite River
+LDEQ-1099,Turb_NTU,12,42.25,0,2013,2014,Comite River near Stevendale Road train bridge,080702020608,Hurricane Creek-Comite River
+LDEQ-1099,pH,12,6.895,0,2013,2014,Comite River near Stevendale Road train bridge,080702020608,Hurricane Creek-Comite River
+LDEQ-1100,DO_mgL,48,8.6,0,2013,2024,"Comite River East-Southeast of Baker, Louisiana",080702020607,Blackwater Bayou-Comite River
+LDEQ-1100,NOx_N_mgL,23,0.13,6,2019,2024,"Comite River East-Southeast of Baker, Louisiana",080702020607,Blackwater Bayou-Comite River
+LDEQ-1100,SC_uScm,45,68.1,0,2013,2024,"Comite River East-Southeast of Baker, Louisiana",080702020607,Blackwater Bayou-Comite River
+LDEQ-1100,TP_mgL,46,0.1045,13,2013,2024,"Comite River East-Southeast of Baker, Louisiana",080702020607,Blackwater Bayou-Comite River
+LDEQ-1100,Temp_C,48,22.52,0,2013,2024,"Comite River East-Southeast of Baker, Louisiana",080702020607,Blackwater Bayou-Comite River
+LDEQ-1100,Turb_NTU,46,24.65,0,2013,2024,"Comite River East-Southeast of Baker, Louisiana",080702020607,Blackwater Bayou-Comite River
+LDEQ-1100,pH,48,6.88,0,2013,2024,"Comite River East-Southeast of Baker, Louisiana",080702020607,Blackwater Bayou-Comite River
+LDEQ-1102,DO_mgL,33,5.7,0,2013,2022,"Blind River (at Lake Maurepas) Southeast of French Settlement, Louisiana",080702040205,Blind River-Frontal Lake Maurepas
+LDEQ-1102,NOx_N_mgL,11,0.13,1,2021,2022,"Blind River (at Lake Maurepas) Southeast of French Settlement, Louisiana",080702040205,Blind River-Frontal Lake Maurepas
+LDEQ-1102,SC_uScm,32,139.1,0,2013,2022,"Blind River (at Lake Maurepas) Southeast of French Settlement, Louisiana",080702040205,Blind River-Frontal Lake Maurepas
+LDEQ-1102,TP_mgL,33,0.16,4,2013,2022,"Blind River (at Lake Maurepas) Southeast of French Settlement, Louisiana",080702040205,Blind River-Frontal Lake Maurepas
+LDEQ-1102,Temp_C,33,22,0,2013,2022,"Blind River (at Lake Maurepas) Southeast of French Settlement, Louisiana",080702040205,Blind River-Frontal Lake Maurepas
+LDEQ-1102,Turb_NTU,35,15,0,2013,2022,"Blind River (at Lake Maurepas) Southeast of French Settlement, Louisiana",080702040205,Blind River-Frontal Lake Maurepas
+LDEQ-1102,pH,33,6.99,0,2013,2022,"Blind River (at Lake Maurepas) Southeast of French Settlement, Louisiana",080702040205,Blind River-Frontal Lake Maurepas
+LDEQ-1103,DO_mgL,35,2.6,0,2012,2022,"New River Northeast of Sorrento, Louisiana",080702040103,Grand Goudine Bayou-New River
+LDEQ-1103,NOx_N_mgL,22,0.13,6,2018,2022,"New River Northeast of Sorrento, Louisiana",080702040103,Grand Goudine Bayou-New River
+LDEQ-1103,SC_uScm,35,321.2,0,2012,2022,"New River Northeast of Sorrento, Louisiana",080702040103,Grand Goudine Bayou-New River
+LDEQ-1103,TP_mgL,35,0.54,0,2012,2022,"New River Northeast of Sorrento, Louisiana",080702040103,Grand Goudine Bayou-New River
+LDEQ-1103,Temp_C,35,22.3,0,2012,2022,"New River Northeast of Sorrento, Louisiana",080702040103,Grand Goudine Bayou-New River
+LDEQ-1103,Turb_NTU,31,9.1,0,2012,2022,"New River Northeast of Sorrento, Louisiana",080702040103,Grand Goudine Bayou-New River
+LDEQ-1103,pH,35,7.2,0,2012,2022,"New River Northeast of Sorrento, Louisiana",080702040103,Grand Goudine Bayou-New River
+LDEQ-1106,DO_mgL,45,5.93,0,2011,2023,"Tickfaw River (at Lake Maurepas) East of Killian, Louisiana",080702030403,Killian Bayou-Tickfaw River
+LDEQ-1106,NOx_N_mgL,24,0.025,13,2018,2023,"Tickfaw River (at Lake Maurepas) East of Killian, Louisiana",080702030403,Killian Bayou-Tickfaw River
+LDEQ-1106,SC_uScm,45,134.6,0,2011,2023,"Tickfaw River (at Lake Maurepas) East of Killian, Louisiana",080702030403,Killian Bayou-Tickfaw River
+LDEQ-1106,TP_mgL,45,0.11,4,2011,2023,"Tickfaw River (at Lake Maurepas) East of Killian, Louisiana",080702030403,Killian Bayou-Tickfaw River
+LDEQ-1106,Temp_C,45,24.11,0,2011,2023,"Tickfaw River (at Lake Maurepas) East of Killian, Louisiana",080702030403,Killian Bayou-Tickfaw River
+LDEQ-1106,Turb_NTU,44,14.95,0,2011,2023,"Tickfaw River (at Lake Maurepas) East of Killian, Louisiana",080702030403,Killian Bayou-Tickfaw River
+LDEQ-1106,pH,45,7.04,0,2011,2023,"Tickfaw River (at Lake Maurepas) East of Killian, Louisiana",080702030403,Killian Bayou-Tickfaw River
+LDEQ-1109,DO_mgL,57,6.8,0,2011,2024,"Comite River Northwest of Clinton, Louisiana",080702020603,Pretty Creek-Comite River
+LDEQ-1109,NOx_N_mgL,36,0.135,7,2018,2024,"Comite River Northwest of Clinton, Louisiana",080702020603,Pretty Creek-Comite River
+LDEQ-1109,SC_uScm,56,57.05,0,2011,2024,"Comite River Northwest of Clinton, Louisiana",080702020603,Pretty Creek-Comite River
+LDEQ-1109,TP_mgL,57,0.13,5,2011,2024,"Comite River Northwest of Clinton, Louisiana",080702020603,Pretty Creek-Comite River
+LDEQ-1109,Temp_C,59,18.67,0,2011,2024,"Comite River Northwest of Clinton, Louisiana",080702020603,Pretty Creek-Comite River
+LDEQ-1109,Turb_NTU,55,24,0,2011,2024,"Comite River Northwest of Clinton, Louisiana",080702020603,Pretty Creek-Comite River
+LDEQ-1109,pH,59,6.56,0,2011,2024,"Comite River Northwest of Clinton, Louisiana",080702020603,Pretty Creek-Comite River
+LDEQ-1112,DO_mgL,36,4.75,0,2011,2023,"Ponchatoula Creek East of Springfield, Louisiana",080702030305,Ponchatoula Creek
+LDEQ-1112,NOx_N_mgL,11,0.55,0,2022,2023,"Ponchatoula Creek East of Springfield, Louisiana",080702030305,Ponchatoula Creek
+LDEQ-1112,SC_uScm,36,202.9,0,2011,2023,"Ponchatoula Creek East of Springfield, Louisiana",080702030305,Ponchatoula Creek
+LDEQ-1112,TP_mgL,35,0.44,0,2011,2023,"Ponchatoula Creek East of Springfield, Louisiana",080702030305,Ponchatoula Creek
+LDEQ-1112,Temp_C,37,22.6,0,2011,2023,"Ponchatoula Creek East of Springfield, Louisiana",080702030305,Ponchatoula Creek
+LDEQ-1112,Turb_NTU,36,25,0,2011,2023,"Ponchatoula Creek East of Springfield, Louisiana",080702030305,Ponchatoula Creek
+LDEQ-1112,pH,37,7.21,0,2011,2023,"Ponchatoula Creek East of Springfield, Louisiana",080702030305,Ponchatoula Creek
+LDEQ-1121,DO_mgL,48,4.61,0,2011,2022,"Selsers Creek Southeast of Ponchatoula, Louisiana",080702040501,Selsers Creek
+LDEQ-1121,NOx_N_mgL,23,0.59,0,2018,2022,"Selsers Creek Southeast of Ponchatoula, Louisiana",080702040501,Selsers Creek
+LDEQ-1121,SC_uScm,45,152.7,0,2011,2022,"Selsers Creek Southeast of Ponchatoula, Louisiana",080702040501,Selsers Creek
+LDEQ-1121,TP_mgL,43,0.47,0,2011,2022,"Selsers Creek Southeast of Ponchatoula, Louisiana",080702040501,Selsers Creek
+LDEQ-1121,Temp_C,48,22.15,0,2011,2022,"Selsers Creek Southeast of Ponchatoula, Louisiana",080702040501,Selsers Creek
+LDEQ-1121,Turb_NTU,42,37.15,0,2011,2022,"Selsers Creek Southeast of Ponchatoula, Louisiana",080702040501,Selsers Creek
+LDEQ-1121,pH,47,7.08,0,2011,2022,"Selsers Creek Southeast of Ponchatoula, Louisiana",080702040501,Selsers Creek
+LDEQ-116,DO_mgL,162,7.8,0,2011,2024,"Tickfaw River East of Springville, Louisiana",080702030401,Wall Bayou-Tickfaw River
+LDEQ-116,NOx_N_mgL,70,0.19,4,2018,2024,"Tickfaw River East of Springville, Louisiana",080702030401,Wall Bayou-Tickfaw River
+LDEQ-116,SC_uScm,161,44.2,0,2011,2024,"Tickfaw River East of Springville, Louisiana",080702030401,Wall Bayou-Tickfaw River
+LDEQ-116,TP_mgL,157,0.096,28,2011,2024,"Tickfaw River East of Springville, Louisiana",080702030401,Wall Bayou-Tickfaw River
+LDEQ-116,Temp_C,165,20.5,0,2011,2024,"Tickfaw River East of Springville, Louisiana",080702030401,Wall Bayou-Tickfaw River
+LDEQ-116,Turb_NTU,158,22.3,0,2011,2024,"Tickfaw River East of Springville, Louisiana",080702030401,Wall Bayou-Tickfaw River
+LDEQ-116,pH,164,6.835,0,2011,2024,"Tickfaw River East of Springville, Louisiana",080702030401,Wall Bayou-Tickfaw River
+LDEQ-119,DO_mgL,57,8.9,0,2011,2024,"Amite River Southwest of Grangeville, Louisiana",080702020405,Pigeon Creek-Amite River
+LDEQ-119,NOx_N_mgL,36,0.063,12,2018,2024,"Amite River Southwest of Grangeville, Louisiana",080702020405,Pigeon Creek-Amite River
+LDEQ-119,SC_uScm,55,44.4,0,2011,2024,"Amite River Southwest of Grangeville, Louisiana",080702020405,Pigeon Creek-Amite River
+LDEQ-119,TP_mgL,57,0.025,31,2011,2024,"Amite River Southwest of Grangeville, Louisiana",080702020405,Pigeon Creek-Amite River
+LDEQ-119,Temp_C,58,20.43,0,2011,2024,"Amite River Southwest of Grangeville, Louisiana",080702020405,Pigeon Creek-Amite River
+LDEQ-119,Turb_NTU,53,17,0,2011,2024,"Amite River Southwest of Grangeville, Louisiana",080702020405,Pigeon Creek-Amite River
+LDEQ-119,pH,58,6.89,0,2011,2024,"Amite River Southwest of Grangeville, Louisiana",080702020405,Pigeon Creek-Amite River
+LDEQ-228,DO_mgL,35,4.55,0,2013,2021,"Amite River at Clio, Louisiana",080702020906,Bayou Barbary-Amite River
+LDEQ-228,NOx_N_mgL,11,0.025,7,2020,2021,"Amite River at Clio, Louisiana",080702020906,Bayou Barbary-Amite River
+LDEQ-228,SC_uScm,33,89.7,0,2013,2021,"Amite River at Clio, Louisiana",080702020906,Bayou Barbary-Amite River
+LDEQ-228,TP_mgL,33,0.15,2,2013,2021,"Amite River at Clio, Louisiana",080702020906,Bayou Barbary-Amite River
+LDEQ-228,Temp_C,36,20.9,0,2013,2021,"Amite River at Clio, Louisiana",080702020906,Bayou Barbary-Amite River
+LDEQ-228,Turb_NTU,31,12.5,0,2013,2021,"Amite River at Clio, Louisiana",080702020906,Bayou Barbary-Amite River
+LDEQ-228,pH,36,6.655,0,2013,2021,"Amite River at Clio, Louisiana",080702020906,Bayou Barbary-Amite River
+LDEQ-233,DO_mgL,35,2.4,0,2012,2022,"Bayou Manchac Southeast of Baton Rouge, Louisiana",080702020804,Bayou Fountain-Bayou Manchac
+LDEQ-233,NOx_N_mgL,21,0.1,7,2018,2022,"Bayou Manchac Southeast of Baton Rouge, Louisiana",080702020804,Bayou Fountain-Bayou Manchac
+LDEQ-233,SC_uScm,35,334,0,2012,2022,"Bayou Manchac Southeast of Baton Rouge, Louisiana",080702020804,Bayou Fountain-Bayou Manchac
+LDEQ-233,TP_mgL,32,0.434,0,2012,2022,"Bayou Manchac Southeast of Baton Rouge, Louisiana",080702020804,Bayou Fountain-Bayou Manchac
+LDEQ-233,Temp_C,35,21.7,0,2012,2022,"Bayou Manchac Southeast of Baton Rouge, Louisiana",080702020804,Bayou Fountain-Bayou Manchac
+LDEQ-233,Turb_NTU,29,9.75,0,2012,2022,"Bayou Manchac Southeast of Baton Rouge, Louisiana",080702020804,Bayou Fountain-Bayou Manchac
+LDEQ-233,pH,35,7,0,2012,2022,"Bayou Manchac Southeast of Baton Rouge, Louisiana",080702020804,Bayou Fountain-Bayou Manchac
+LDEQ-236,DO_mgL,35,4.36,0,2013,2021,"Colyell Bay at Port Vincent, Louisiana",080702020704,Little Colyell Creek-Colyell Creek
+LDEQ-236,NOx_N_mgL,11,0.056,5,2020,2021,"Colyell Bay at Port Vincent, Louisiana",080702020704,Little Colyell Creek-Colyell Creek
+LDEQ-236,SC_uScm,33,97.6,0,2013,2021,"Colyell Bay at Port Vincent, Louisiana",080702020704,Little Colyell Creek-Colyell Creek
+LDEQ-236,TP_mgL,33,0.21,0,2013,2021,"Colyell Bay at Port Vincent, Louisiana",080702020704,Little Colyell Creek-Colyell Creek
+LDEQ-236,Temp_C,36,21.15,0,2013,2021,"Colyell Bay at Port Vincent, Louisiana",080702020704,Little Colyell Creek-Colyell Creek
+LDEQ-236,Turb_NTU,31,35.8,0,2013,2021,"Colyell Bay at Port Vincent, Louisiana",080702020704,Little Colyell Creek-Colyell Creek
+LDEQ-236,pH,36,6.57,0,2013,2021,"Colyell Bay at Port Vincent, Louisiana",080702020704,Little Colyell Creek-Colyell Creek
+LDEQ-239,DO_mgL,35,5.4,0,2013,2021,"Gray's Creek North-Northwest of Port Vincent, Louisiana",080702020903,Grays Creek
+LDEQ-239,NOx_N_mgL,11,0.25,0,2020,2021,"Gray's Creek North-Northwest of Port Vincent, Louisiana",080702020903,Grays Creek
+LDEQ-239,SC_uScm,33,236.3,0,2013,2021,"Gray's Creek North-Northwest of Port Vincent, Louisiana",080702020903,Grays Creek
+LDEQ-239,TP_mgL,33,0.515,0,2013,2021,"Gray's Creek North-Northwest of Port Vincent, Louisiana",080702020903,Grays Creek
+LDEQ-239,Temp_C,36,21,0,2013,2021,"Gray's Creek North-Northwest of Port Vincent, Louisiana",080702020903,Grays Creek
+LDEQ-239,Turb_NTU,31,33.6,0,2013,2021,"Gray's Creek North-Northwest of Port Vincent, Louisiana",080702020903,Grays Creek
+LDEQ-239,pH,36,7.015,0,2013,2021,"Gray's Creek North-Northwest of Port Vincent, Louisiana",080702020903,Grays Creek
+LDEQ-243,DO_mgL,33,5.16,0,2013,2022,"Blind River East of Gonzales, Louisiana",080702040205,Blind River-Frontal Lake Maurepas
+LDEQ-243,NOx_N_mgL,10,0.12,1,2021,2022,"Blind River East of Gonzales, Louisiana",080702040205,Blind River-Frontal Lake Maurepas
+LDEQ-243,SC_uScm,32,165.6,0,2013,2022,"Blind River East of Gonzales, Louisiana",080702040205,Blind River-Frontal Lake Maurepas
+LDEQ-243,TP_mgL,33,0.16,4,2013,2022,"Blind River East of Gonzales, Louisiana",080702040205,Blind River-Frontal Lake Maurepas
+LDEQ-243,Temp_C,33,22.7,0,2013,2022,"Blind River East of Gonzales, Louisiana",080702040205,Blind River-Frontal Lake Maurepas
+LDEQ-243,Turb_NTU,35,9.74,0,2013,2022,"Blind River East of Gonzales, Louisiana",080702040205,Blind River-Frontal Lake Maurepas
+LDEQ-243,pH,33,6.92,0,2013,2022,"Blind River East of Gonzales, Louisiana",080702040205,Blind River-Frontal Lake Maurepas
+LDEQ-2654,DO_mgL,24,5.15,0,2018,2023,"Natalbany River Southeast of Springfield, Louisiana",080702030306,Still Branch-Natalbany River
+LDEQ-2654,NOx_N_mgL,24,0.06,11,2018,2023,"Natalbany River Southeast of Springfield, Louisiana",080702030306,Still Branch-Natalbany River
+LDEQ-2654,SC_uScm,24,100.7,0,2018,2023,"Natalbany River Southeast of Springfield, Louisiana",080702030306,Still Branch-Natalbany River
+LDEQ-2654,TP_mgL,24,0.185,0,2018,2023,"Natalbany River Southeast of Springfield, Louisiana",080702030306,Still Branch-Natalbany River
+LDEQ-2654,Temp_C,24,23.8,0,2018,2023,"Natalbany River Southeast of Springfield, Louisiana",080702030306,Still Branch-Natalbany River
+LDEQ-2654,Turb_NTU,23,17,0,2018,2023,"Natalbany River Southeast of Springfield, Louisiana",080702030306,Still Branch-Natalbany River
+LDEQ-2654,pH,24,6.355,0,2018,2023,"Natalbany River Southeast of Springfield, Louisiana",080702030306,Still Branch-Natalbany River
+LDEQ-268,DO_mgL,33,6.63,0,2013,2022,"Amite River Diversion Canal North of Gramercy, Louisiana",080702040205,Blind River-Frontal Lake Maurepas
+LDEQ-268,NOx_N_mgL,10,0.175,0,2021,2022,"Amite River Diversion Canal North of Gramercy, Louisiana",080702040205,Blind River-Frontal Lake Maurepas
+LDEQ-268,SC_uScm,32,108.2,0,2013,2022,"Amite River Diversion Canal North of Gramercy, Louisiana",080702040205,Blind River-Frontal Lake Maurepas
+LDEQ-268,TP_mgL,32,0.15,2,2013,2022,"Amite River Diversion Canal North of Gramercy, Louisiana",080702040205,Blind River-Frontal Lake Maurepas
+LDEQ-268,Temp_C,33,22.5,0,2013,2022,"Amite River Diversion Canal North of Gramercy, Louisiana",080702040205,Blind River-Frontal Lake Maurepas
+LDEQ-268,Turb_NTU,35,17.9,0,2013,2022,"Amite River Diversion Canal North of Gramercy, Louisiana",080702040205,Blind River-Frontal Lake Maurepas
+LDEQ-268,pH,33,7.05,0,2013,2022,"Amite River Diversion Canal North of Gramercy, Louisiana",080702040205,Blind River-Frontal Lake Maurepas
+LDEQ-298,DO_mgL,36,5.75,0,2013,2023,"Natalbany River West of Ponchatoula, Louisiana",080702030306,Still Branch-Natalbany River
+LDEQ-298,NOx_N_mgL,11,0.13,0,2022,2023,"Natalbany River West of Ponchatoula, Louisiana",080702030306,Still Branch-Natalbany River
+LDEQ-298,SC_uScm,35,91.2,0,2013,2023,"Natalbany River West of Ponchatoula, Louisiana",080702030306,Still Branch-Natalbany River
+LDEQ-298,TP_mgL,34,0.1665,1,2013,2023,"Natalbany River West of Ponchatoula, Louisiana",080702030306,Still Branch-Natalbany River
+LDEQ-298,Temp_C,36,22.12,0,2013,2023,"Natalbany River West of Ponchatoula, Louisiana",080702030306,Still Branch-Natalbany River
+LDEQ-298,Turb_NTU,36,22.75,0,2013,2023,"Natalbany River West of Ponchatoula, Louisiana",080702030306,Still Branch-Natalbany River
+LDEQ-298,pH,36,6.83,0,2013,2023,"Natalbany River West of Ponchatoula, Louisiana",080702030306,Still Branch-Natalbany River
+LDEQ-299,DO_mgL,36,6.985,0,2013,2023,"Yellow Water River West of Ponchatoula, Louisiana",080702030304,Yellow Water River
+LDEQ-299,NOx_N_mgL,12,5.9,0,2022,2023,"Yellow Water River West of Ponchatoula, Louisiana",080702030304,Yellow Water River
+LDEQ-299,SC_uScm,35,228.4,0,2013,2023,"Yellow Water River West of Ponchatoula, Louisiana",080702030304,Yellow Water River
+LDEQ-299,TP_mgL,35,1.3,0,2013,2023,"Yellow Water River West of Ponchatoula, Louisiana",080702030304,Yellow Water River
+LDEQ-299,Temp_C,36,22.66,0,2013,2023,"Yellow Water River West of Ponchatoula, Louisiana",080702030304,Yellow Water River
+LDEQ-299,Turb_NTU,36,24.1,0,2013,2023,"Yellow Water River West of Ponchatoula, Louisiana",080702030304,Yellow Water River
+LDEQ-299,pH,36,7.11,0,2013,2023,"Yellow Water River West of Ponchatoula, Louisiana",080702030304,Yellow Water River
+LDEQ-3408,DO_mgL,23,6.3,0,2018,2021,"West Colyell Creek North of Port Vincent, Louisiana",080702020702,West Colyell Creek
+LDEQ-3408,NOx_N_mgL,22,0.425,4,2018,2021,"West Colyell Creek North of Port Vincent, Louisiana",080702020702,West Colyell Creek
+LDEQ-3408,SC_uScm,23,149.8,0,2018,2021,"West Colyell Creek North of Port Vincent, Louisiana",080702020702,West Colyell Creek
+LDEQ-3408,TP_mgL,23,0.42,0,2018,2021,"West Colyell Creek North of Port Vincent, Louisiana",080702020702,West Colyell Creek
+LDEQ-3408,Temp_C,23,21.2,0,2018,2021,"West Colyell Creek North of Port Vincent, Louisiana",080702020702,West Colyell Creek
+LDEQ-3408,Turb_NTU,20,70,0,2018,2021,"West Colyell Creek North of Port Vincent, Louisiana",080702020702,West Colyell Creek
+LDEQ-3408,pH,23,7.3,0,2018,2021,"West Colyell Creek North of Port Vincent, Louisiana",080702020702,West Colyell Creek
+LDEQ-3409,DO_mgL,23,6.3,0,2018,2021,"Middle Colyell Creek South of Satsuma, Louisiana",080702020703,Middle Colyell Creek
+LDEQ-3409,NOx_N_mgL,22,0.755,3,2018,2021,"Middle Colyell Creek South of Satsuma, Louisiana",080702020703,Middle Colyell Creek
+LDEQ-3409,SC_uScm,23,178.6,0,2018,2021,"Middle Colyell Creek South of Satsuma, Louisiana",080702020703,Middle Colyell Creek
+LDEQ-3409,TP_mgL,23,0.47,0,2018,2021,"Middle Colyell Creek South of Satsuma, Louisiana",080702020703,Middle Colyell Creek
+LDEQ-3409,Temp_C,23,21.1,0,2018,2021,"Middle Colyell Creek South of Satsuma, Louisiana",080702020703,Middle Colyell Creek
+LDEQ-3409,Turb_NTU,20,32,0,2018,2021,"Middle Colyell Creek South of Satsuma, Louisiana",080702020703,Middle Colyell Creek
+LDEQ-3409,pH,23,7.1,0,2018,2021,"Middle Colyell Creek South of Satsuma, Louisiana",080702020703,Middle Colyell Creek
+LDEQ-3410,DO_mgL,23,6,0,2018,2021,"Colyell Creek Southwest of Holden, Louisiana",080702020704,Little Colyell Creek-Colyell Creek
+LDEQ-3410,NOx_N_mgL,22,0.079,9,2018,2021,"Colyell Creek Southwest of Holden, Louisiana",080702020704,Little Colyell Creek-Colyell Creek
+LDEQ-3410,SC_uScm,23,99.9,0,2018,2021,"Colyell Creek Southwest of Holden, Louisiana",080702020704,Little Colyell Creek-Colyell Creek
+LDEQ-3410,TP_mgL,23,0.17,0,2018,2021,"Colyell Creek Southwest of Holden, Louisiana",080702020704,Little Colyell Creek-Colyell Creek
+LDEQ-3410,Temp_C,23,20.5,0,2018,2021,"Colyell Creek Southwest of Holden, Louisiana",080702020704,Little Colyell Creek-Colyell Creek
+LDEQ-3410,Turb_NTU,21,48,0,2018,2021,"Colyell Creek Southwest of Holden, Louisiana",080702020704,Little Colyell Creek-Colyell Creek
+LDEQ-3410,pH,23,7.1,0,2018,2021,"Colyell Creek Southwest of Holden, Louisiana",080702020704,Little Colyell Creek-Colyell Creek
+LDEQ-3590,DO_mgL,32,3.29,0,2011,2022,"I-55 Borrow Canal South of Ponchatoula, Louisiana",080702040502,Anderson Canal-Frontal Lake Maurepas
+LDEQ-3590,NOx_N_mgL,23,0.099,5,2018,2022,"I-55 Borrow Canal South of Ponchatoula, Louisiana",080702040502,Anderson Canal-Frontal Lake Maurepas
+LDEQ-3590,SC_uScm,33,154.2,0,2011,2022,"I-55 Borrow Canal South of Ponchatoula, Louisiana",080702040502,Anderson Canal-Frontal Lake Maurepas
+LDEQ-3590,TP_mgL,32,0.425,0,2011,2022,"I-55 Borrow Canal South of Ponchatoula, Louisiana",080702040502,Anderson Canal-Frontal Lake Maurepas
+LDEQ-3590,Temp_C,33,22.2,0,2011,2022,"I-55 Borrow Canal South of Ponchatoula, Louisiana",080702040502,Anderson Canal-Frontal Lake Maurepas
+LDEQ-3590,Turb_NTU,30,13.5,0,2011,2022,"I-55 Borrow Canal South of Ponchatoula, Louisiana",080702040502,Anderson Canal-Frontal Lake Maurepas
+LDEQ-3590,pH,32,6.825,0,2011,2022,"I-55 Borrow Canal South of Ponchatoula, Louisiana",080702040502,Anderson Canal-Frontal Lake Maurepas
+LDEQ-36,DO_mgL,45,7.9,0,2011,2023,"Pass Manchac South of Akers, Louisiana",080702040400,Lake Maurepas
+LDEQ-36,NOx_N_mgL,22,0.063,8,2018,2023,"Pass Manchac South of Akers, Louisiana",080702040400,Lake Maurepas
+LDEQ-36,SC_uScm,44,1134,0,2011,2023,"Pass Manchac South of Akers, Louisiana",080702040400,Lake Maurepas
+LDEQ-36,TP_mgL,45,0.097,8,2011,2023,"Pass Manchac South of Akers, Louisiana",080702040400,Lake Maurepas
+LDEQ-36,Temp_C,45,23.51,0,2011,2023,"Pass Manchac South of Akers, Louisiana",080702040400,Lake Maurepas
+LDEQ-36,Turb_NTU,45,9.3,1,2011,2023,"Pass Manchac South of Akers, Louisiana",080702040400,Lake Maurepas
+LDEQ-36,pH,45,7.48,0,2011,2023,"Pass Manchac South of Akers, Louisiana",080702040400,Lake Maurepas
+LDEQ-3659,DO_mgL,22,6.65,0,2017,2022,"Selsers Creek Northeast of Ponchatoula, Louisiana",080702040501,Selsers Creek
+LDEQ-3659,NOx_N_mgL,10,0.53,0,2021,2022,"Selsers Creek Northeast of Ponchatoula, Louisiana",080702040501,Selsers Creek
+LDEQ-3659,SC_uScm,22,175.9,0,2017,2022,"Selsers Creek Northeast of Ponchatoula, Louisiana",080702040501,Selsers Creek
+LDEQ-3659,TP_mgL,20,0.35,0,2017,2022,"Selsers Creek Northeast of Ponchatoula, Louisiana",080702040501,Selsers Creek
+LDEQ-3659,Temp_C,22,22.09,0,2017,2022,"Selsers Creek Northeast of Ponchatoula, Louisiana",080702040501,Selsers Creek
+LDEQ-3659,Turb_NTU,19,38,0,2017,2022,"Selsers Creek Northeast of Ponchatoula, Louisiana",080702040501,Selsers Creek
+LDEQ-3659,pH,21,6.5,0,2017,2022,"Selsers Creek Northeast of Ponchatoula, Louisiana",080702040501,Selsers Creek
+LDEQ-43,DO_mgL,35,6.6,0,2013,2021,"Amite River West of Port Vincent, Louisiana",080702020904,Clay Cut Bayou-Amite River
+LDEQ-43,NOx_N_mgL,11,0.093,3,2020,2021,"Amite River West of Port Vincent, Louisiana",080702020904,Clay Cut Bayou-Amite River
+LDEQ-43,SC_uScm,33,98.7,0,2013,2021,"Amite River West of Port Vincent, Louisiana",080702020904,Clay Cut Bayou-Amite River
+LDEQ-43,TP_mgL,33,0.16,0,2013,2021,"Amite River West of Port Vincent, Louisiana",080702020904,Clay Cut Bayou-Amite River
+LDEQ-43,Temp_C,36,21.95,0,2013,2021,"Amite River West of Port Vincent, Louisiana",080702020904,Clay Cut Bayou-Amite River
+LDEQ-43,Turb_NTU,31,30.2,0,2013,2021,"Amite River West of Port Vincent, Louisiana",080702020904,Clay Cut Bayou-Amite River
+LDEQ-43,pH,36,7.1,0,2013,2021,"Amite River West of Port Vincent, Louisiana",080702020904,Clay Cut Bayou-Amite River
+LDEQ-4864,DO_mgL,23,5.6,0,2017,2022,"Wards Creek in Southeast Baton Rouge, Louisiana",080702020803,Ward Creek
+LDEQ-4864,NOx_N_mgL,10,0.114,3,2021,2022,"Wards Creek in Southeast Baton Rouge, Louisiana",080702020803,Ward Creek
+LDEQ-4864,SC_uScm,23,300.2,0,2017,2022,"Wards Creek in Southeast Baton Rouge, Louisiana",080702020803,Ward Creek
+LDEQ-4864,TP_mgL,17,0.23,0,2017,2022,"Wards Creek in Southeast Baton Rouge, Louisiana",080702020803,Ward Creek
+LDEQ-4864,Temp_C,23,23,0,2017,2022,"Wards Creek in Southeast Baton Rouge, Louisiana",080702020803,Ward Creek
+LDEQ-4864,Turb_NTU,21,16,0,2017,2022,"Wards Creek in Southeast Baton Rouge, Louisiana",080702020803,Ward Creek
+LDEQ-4864,pH,23,7.6,0,2017,2022,"Wards Creek in Southeast Baton Rouge, Louisiana",080702020803,Ward Creek
+LDEQ-4865,DO_mgL,23,7.8,0,2017,2021,"Amite River in West Denham Springs, Louisiana",080702020904,Clay Cut Bayou-Amite River
+LDEQ-4865,NOx_N_mgL,11,0.098,3,2020,2021,"Amite River in West Denham Springs, Louisiana",080702020904,Clay Cut Bayou-Amite River
+LDEQ-4865,SC_uScm,23,53.7,0,2017,2021,"Amite River in West Denham Springs, Louisiana",080702020904,Clay Cut Bayou-Amite River
+LDEQ-4865,TP_mgL,22,0.107,2,2017,2021,"Amite River in West Denham Springs, Louisiana",080702020904,Clay Cut Bayou-Amite River
+LDEQ-4865,Temp_C,23,22.8,0,2017,2021,"Amite River in West Denham Springs, Louisiana",080702020904,Clay Cut Bayou-Amite River
+LDEQ-4865,Turb_NTU,21,23,0,2017,2021,"Amite River in West Denham Springs, Louisiana",080702020904,Clay Cut Bayou-Amite River
+LDEQ-4865,pH,23,7,0,2017,2021,"Amite River in West Denham Springs, Louisiana",080702020904,Clay Cut Bayou-Amite River
+LDEQ-4866,DO_mgL,23,7.9,0,2018,2023,"Blood River South-Southwest of Albany, Louisiana",080702030402,Lizard Creek-Blood River
+LDEQ-4866,NOx_N_mgL,22,0.155,6,2018,2023,"Blood River South-Southwest of Albany, Louisiana",080702030402,Lizard Creek-Blood River
+LDEQ-4866,SC_uScm,22,115.9,0,2018,2023,"Blood River South-Southwest of Albany, Louisiana",080702030402,Lizard Creek-Blood River
+LDEQ-4866,TP_mgL,23,0.17,1,2018,2023,"Blood River South-Southwest of Albany, Louisiana",080702030402,Lizard Creek-Blood River
+LDEQ-4866,Temp_C,24,21.11,0,2018,2023,"Blood River South-Southwest of Albany, Louisiana",080702030402,Lizard Creek-Blood River
+LDEQ-4866,Turb_NTU,23,42,0,2018,2023,"Blood River South-Southwest of Albany, Louisiana",080702030402,Lizard Creek-Blood River
+LDEQ-4866,pH,23,7.4,0,2018,2023,"Blood River South-Southwest of Albany, Louisiana",080702030402,Lizard Creek-Blood River
+LDEQ-4870,DO_mgL,21,5.1,0,2017,2022,"Dutch Bayou Southeast of French Settlement, Louisiana",080702040303,Dutch Bayou-Mississippi Bayou
+LDEQ-4870,NOx_N_mgL,11,0.025,6,2021,2022,"Dutch Bayou Southeast of French Settlement, Louisiana",080702040303,Dutch Bayou-Mississippi Bayou
+LDEQ-4870,SC_uScm,20,207.4,0,2017,2022,"Dutch Bayou Southeast of French Settlement, Louisiana",080702040303,Dutch Bayou-Mississippi Bayou
+LDEQ-4870,TP_mgL,23,0.16,4,2017,2022,"Dutch Bayou Southeast of French Settlement, Louisiana",080702040303,Dutch Bayou-Mississippi Bayou
+LDEQ-4870,Temp_C,21,23.6,0,2017,2022,"Dutch Bayou Southeast of French Settlement, Louisiana",080702040303,Dutch Bayou-Mississippi Bayou
+LDEQ-4870,Turb_NTU,23,14,0,2017,2022,"Dutch Bayou Southeast of French Settlement, Louisiana",080702040303,Dutch Bayou-Mississippi Bayou
+LDEQ-4870,pH,21,6.9,0,2017,2022,"Dutch Bayou Southeast of French Settlement, Louisiana",080702040303,Dutch Bayou-Mississippi Bayou
+LDEQ-4871,DO_mgL,36,7.915,0,2017,2024,"Comite River West-Northwest of Denham Springs, Louisiana",080702020608,Hurricane Creek-Comite River
+LDEQ-4871,NOx_N_mgL,24,0.14,3,2019,2024,"Comite River West-Northwest of Denham Springs, Louisiana",080702020608,Hurricane Creek-Comite River
+LDEQ-4871,SC_uScm,33,93.8,0,2017,2024,"Comite River West-Northwest of Denham Springs, Louisiana",080702020608,Hurricane Creek-Comite River
+LDEQ-4871,TP_mgL,35,0.14,2,2017,2024,"Comite River West-Northwest of Denham Springs, Louisiana",080702020608,Hurricane Creek-Comite River
+LDEQ-4871,Temp_C,36,22.05,0,2017,2024,"Comite River West-Northwest of Denham Springs, Louisiana",080702020608,Hurricane Creek-Comite River
+LDEQ-4871,Turb_NTU,34,29,0,2017,2024,"Comite River West-Northwest of Denham Springs, Louisiana",080702020608,Hurricane Creek-Comite River
+LDEQ-4871,pH,36,7.04,0,2017,2024,"Comite River West-Northwest of Denham Springs, Louisiana",080702020608,Hurricane Creek-Comite River
+LDEQ-740,DO_mgL,24,4.55,0,2018,2023,"Ponchatoula River Southwest of Ponchatoula, Louisiana",080702030305,Ponchatoula Creek
+LDEQ-740,NOx_N_mgL,24,0.24,4,2018,2023,"Ponchatoula River Southwest of Ponchatoula, Louisiana",080702030305,Ponchatoula Creek
+LDEQ-740,SC_uScm,24,129.8,0,2018,2023,"Ponchatoula River Southwest of Ponchatoula, Louisiana",080702030305,Ponchatoula Creek
+LDEQ-740,TP_mgL,24,0.32,0,2018,2023,"Ponchatoula River Southwest of Ponchatoula, Louisiana",080702030305,Ponchatoula Creek
+LDEQ-740,Temp_C,24,23.81,0,2018,2023,"Ponchatoula River Southwest of Ponchatoula, Louisiana",080702030305,Ponchatoula Creek
+LDEQ-740,Turb_NTU,23,17,0,2018,2023,"Ponchatoula River Southwest of Ponchatoula, Louisiana",080702030305,Ponchatoula Creek
+LDEQ-740,pH,24,6.4,0,2018,2023,"Ponchatoula River Southwest of Ponchatoula, Louisiana",080702030305,Ponchatoula Creek
+LDEQ319-0129,DO_mgL,14,6.56,0,2017,2018,Gramercy Town Canal,080702040202,Bayou des Acadiens
+LDEQ319-0129,NOx_N_mgL,15,0.28,4,2022,2023,Gramercy Town Canal,080702040202,Bayou des Acadiens
+LDEQ319-0129,SC_uScm,13,231.3,0,2017,2018,Gramercy Town Canal,080702040202,Bayou des Acadiens
+LDEQ319-0129,TP_mgL,91,0.37,1,2014,2023,Gramercy Town Canal,080702040202,Bayou des Acadiens
+LDEQ319-0129,Temp_C,14,21.27,0,2017,2018,Gramercy Town Canal,080702040202,Bayou des Acadiens
+LDEQ319-0129,Turb_NTU,91,44,0,2014,2023,Gramercy Town Canal,080702040202,Bayou des Acadiens
+LDEQ319-0129,pH,13,7.39,0,2017,2018,Gramercy Town Canal,080702040202,Bayou des Acadiens
+LDEQ319-1099,DO_mgL,24,8.115,0,2014,2015,Comite River near Stevendale Road,080702020608,Hurricane Creek-Comite River
+LDEQ319-1099,SC_uScm,23,99.5,0,2014,2015,Comite River near Stevendale Road,080702020608,Hurricane Creek-Comite River
+LDEQ319-1099,Temp_C,24,18.98,0,2014,2015,Comite River near Stevendale Road,080702020608,Hurricane Creek-Comite River
+LDEQ319-1099,pH,24,7.615,0,2014,2015,Comite River near Stevendale Road,080702020608,Hurricane Creek-Comite River
+LDEQ319-2158,DO_mgL,13,7.83,0,2017,2021,Yellow Water River Hwy 1040 crossings,080702030304,Yellow Water River
+LDEQ319-2158,SC_uScm,10,204.2,0,2017,2020,Yellow Water River Hwy 1040 crossings,080702030304,Yellow Water River
+LDEQ319-2158,Temp_C,15,20.14,0,2017,2021,Yellow Water River Hwy 1040 crossings,080702030304,Yellow Water River
+LDEQ319-2158,pH,11,7.56,0,2017,2020,Yellow Water River Hwy 1040 crossings,080702030304,Yellow Water River
+LDEQ319-2278,DO_mgL,14,7.195,0,2020,2021,Middle Amite River at Greenwell Springs Rd near Hwy 409,080702020504,Beaver Pond Bayou-Sandy Creek
+LDEQ319-2278,SC_uScm,9,53.2,0,2020,2021,Middle Amite River at Greenwell Springs Rd near Hwy 409,080702020504,Beaver Pond Bayou-Sandy Creek
+LDEQ319-2278,Temp_C,16,22.97,0,2020,2021,Middle Amite River at Greenwell Springs Rd near Hwy 409,080702020504,Beaver Pond Bayou-Sandy Creek
+LDEQ319-2278,pH,11,6.94,0,2020,2021,Middle Amite River at Greenwell Springs Rd near Hwy 409,080702020504,Beaver Pond Bayou-Sandy Creek
+LDEQ319-299,DO_mgL,56,6.895,0,2017,2025,Yellow Water River at Hwy. 22,080702030304,Yellow Water River
+LDEQ319-299,SC_uScm,56,244.4,0,2017,2025,Yellow Water River at Hwy. 22,080702030304,Yellow Water River
+LDEQ319-299,Temp_C,72,23.41,0,2017,2025,Yellow Water River at Hwy. 22,080702030304,Yellow Water River
+LDEQ319-299,pH,64,7.675,0,2017,2025,Yellow Water River at Hwy. 22,080702030304,Yellow Water River
+LDEQ319-4511,DO_mgL,24,4.375,0,2014,2015,Unnamed trib to Blackwater Bayou,080702020607,Blackwater Bayou-Comite River
+LDEQ319-4511,SC_uScm,23,105.8,0,2014,2015,Unnamed trib to Blackwater Bayou,080702020607,Blackwater Bayou-Comite River
+LDEQ319-4511,Temp_C,24,17.04,0,2014,2015,Unnamed trib to Blackwater Bayou,080702020607,Blackwater Bayou-Comite River
+LDEQ319-4511,pH,24,6.75,0,2014,2015,Unnamed trib to Blackwater Bayou,080702020607,Blackwater Bayou-Comite River
+LDEQ319-4512,DO_mgL,24,5.435,0,2014,2015,Beaver Bayou at Denham Road,080702020608,Hurricane Creek-Comite River
+LDEQ319-4512,SC_uScm,23,100,0,2014,2015,Beaver Bayou at Denham Road,080702020608,Hurricane Creek-Comite River
+LDEQ319-4512,Temp_C,24,20.94,0,2014,2015,Beaver Bayou at Denham Road,080702020608,Hurricane Creek-Comite River
+LDEQ319-4512,pH,24,6.895,0,2014,2015,Beaver Bayou at Denham Road,080702020608,Hurricane Creek-Comite River
+LDEQ319-4513,DO_mgL,24,6.41,0,2014,2015,Blackwater Bayou at Carey Road,080702020607,Blackwater Bayou-Comite River
+LDEQ319-4513,SC_uScm,23,123.3,0,2014,2015,Blackwater Bayou at Carey Road,080702020607,Blackwater Bayou-Comite River
+LDEQ319-4513,Temp_C,24,16.45,0,2014,2015,Blackwater Bayou at Carey Road,080702020607,Blackwater Bayou-Comite River
+LDEQ319-4513,pH,24,7.21,0,2014,2015,Blackwater Bayou at Carey Road,080702020607,Blackwater Bayou-Comite River
+LDEQ319-4514,DO_mgL,24,7.195,0,2014,2015,Cypress Bayou at Gibbens Road,080702020608,Hurricane Creek-Comite River
+LDEQ319-4514,SC_uScm,23,431.7,0,2014,2015,Cypress Bayou at Gibbens Road,080702020608,Hurricane Creek-Comite River
+LDEQ319-4514,Temp_C,24,17.59,0,2014,2015,Cypress Bayou at Gibbens Road,080702020608,Hurricane Creek-Comite River
+LDEQ319-4514,pH,24,7.74,0,2014,2015,Cypress Bayou at Gibbens Road,080702020608,Hurricane Creek-Comite River
+LDEQ319-4515,DO_mgL,24,7.065,0,2014,2015,Cypress Bayou at Hooper Road,080702020608,Hurricane Creek-Comite River
+LDEQ319-4515,SC_uScm,23,355.3,0,2014,2015,Cypress Bayou at Hooper Road,080702020608,Hurricane Creek-Comite River
+LDEQ319-4515,Temp_C,24,18.09,0,2014,2015,Cypress Bayou at Hooper Road,080702020608,Hurricane Creek-Comite River
+LDEQ319-4515,pH,24,7.685,0,2014,2015,Cypress Bayou at Hooper Road,080702020608,Hurricane Creek-Comite River
+LDEQ319-4516,DO_mgL,24,8.61,0,2014,2015,Comite River at Hooper Road,080702020607,Blackwater Bayou-Comite River
+LDEQ319-4516,SC_uScm,23,69.6,0,2014,2015,Comite River at Hooper Road,080702020607,Blackwater Bayou-Comite River
+LDEQ319-4516,Temp_C,24,17,0,2014,2015,Comite River at Hooper Road,080702020607,Blackwater Bayou-Comite River
+LDEQ319-4516,pH,24,7.22,0,2014,2015,Comite River at Hooper Road,080702020607,Blackwater Bayou-Comite River
+LDEQ319-4517,DO_mgL,24,6.025,0,2014,2015,Blackwater Bayou at Hooper Road,080702020607,Blackwater Bayou-Comite River
+LDEQ319-4517,SC_uScm,23,149.6,0,2014,2015,Blackwater Bayou at Hooper Road,080702020607,Blackwater Bayou-Comite River
+LDEQ319-4517,Temp_C,24,16.91,0,2014,2015,Blackwater Bayou at Hooper Road,080702020607,Blackwater Bayou-Comite River
+LDEQ319-4517,pH,24,7.14,0,2014,2015,Blackwater Bayou at Hooper Road,080702020607,Blackwater Bayou-Comite River
+LDEQ319-4518,DO_mgL,24,8.595,0,2014,2015,Comite River at Joor Road,080702020608,Hurricane Creek-Comite River
+LDEQ319-4518,SC_uScm,23,81.5,0,2014,2015,Comite River at Joor Road,080702020608,Hurricane Creek-Comite River
+LDEQ319-4518,Temp_C,24,17.91,0,2014,2015,Comite River at Joor Road,080702020608,Hurricane Creek-Comite River
+LDEQ319-4518,pH,24,7.225,0,2014,2015,Comite River at Joor Road,080702020608,Hurricane Creek-Comite River
+LDEQ319-4519,DO_mgL,24,5.12,0,2014,2015,Roberts Canal at Joor Road,080702020608,Hurricane Creek-Comite River
+LDEQ319-4519,SC_uScm,23,306.3,0,2014,2015,Roberts Canal at Joor Road,080702020608,Hurricane Creek-Comite River
+LDEQ319-4519,Temp_C,24,18.2,0,2014,2015,Roberts Canal at Joor Road,080702020608,Hurricane Creek-Comite River
+LDEQ319-4519,pH,24,7.575,0,2014,2015,Roberts Canal at Joor Road,080702020608,Hurricane Creek-Comite River
+LDEQ319-4520,DO_mgL,24,2.625,0,2014,2015,Hurricane Creek at Joor Road,080702020608,Hurricane Creek-Comite River
+LDEQ319-4520,SC_uScm,23,234.5,0,2014,2015,Hurricane Creek at Joor Road,080702020608,Hurricane Creek-Comite River
+LDEQ319-4520,Temp_C,24,18.51,0,2014,2015,Hurricane Creek at Joor Road,080702020608,Hurricane Creek-Comite River
+LDEQ319-4520,pH,24,7.365,0,2014,2015,Hurricane Creek at Joor Road,080702020608,Hurricane Creek-Comite River
+LDEQ319-4521,DO_mgL,24,5.01,0,2014,2015,Sharp Station Canal at North Flannery Rd,080702020608,Hurricane Creek-Comite River
+LDEQ319-4521,SC_uScm,23,378,0,2014,2015,Sharp Station Canal at North Flannery Rd,080702020608,Hurricane Creek-Comite River
+LDEQ319-4521,Temp_C,24,19.09,0,2014,2015,Sharp Station Canal at North Flannery Rd,080702020608,Hurricane Creek-Comite River
+LDEQ319-4521,pH,24,7.49,0,2014,2015,Sharp Station Canal at North Flannery Rd,080702020608,Hurricane Creek-Comite River
+LDEQ319-4522,DO_mgL,24,7.13,0,2014,2015,Beaver Bayou at Central Thruway,080702020608,Hurricane Creek-Comite River
+LDEQ319-4522,SC_uScm,23,142.5,0,2014,2015,Beaver Bayou at Central Thruway,080702020608,Hurricane Creek-Comite River
+LDEQ319-4522,Temp_C,24,17.73,0,2014,2015,Beaver Bayou at Central Thruway,080702020608,Hurricane Creek-Comite River
+LDEQ319-4522,pH,24,6.955,0,2014,2015,Beaver Bayou at Central Thruway,080702020608,Hurricane Creek-Comite River
+LDEQ319-4523,DO_mgL,24,3.92,0,2014,2015,Draughan Creek at Greenwell Springs Road,080702020608,Hurricane Creek-Comite River
+LDEQ319-4523,SC_uScm,23,181.5,0,2014,2015,Draughan Creek at Greenwell Springs Road,080702020608,Hurricane Creek-Comite River
+LDEQ319-4523,Temp_C,24,17.72,0,2014,2015,Draughan Creek at Greenwell Springs Road,080702020608,Hurricane Creek-Comite River
+LDEQ319-4523,pH,24,7.02,0,2014,2015,Draughan Creek at Greenwell Springs Road,080702020608,Hurricane Creek-Comite River
+LDEQ319-4524,DO_mgL,24,6.055,0,2014,2015,Beaver Bayou at Wax Road,080702020608,Hurricane Creek-Comite River
+LDEQ319-4524,SC_uScm,23,111.7,0,2014,2015,Beaver Bayou at Wax Road,080702020608,Hurricane Creek-Comite River
+LDEQ319-4524,Temp_C,24,17.23,0,2014,2015,Beaver Bayou at Wax Road,080702020608,Hurricane Creek-Comite River
+LDEQ319-4524,pH,24,7.015,0,2014,2015,Beaver Bayou at Wax Road,080702020608,Hurricane Creek-Comite River
+LDEQ319-4525,DO_mgL,24,5.455,0,2014,2015,Shoe Creek at Pecos Avenue,080702020608,Hurricane Creek-Comite River
+LDEQ319-4525,SC_uScm,23,198.3,0,2014,2015,Shoe Creek at Pecos Avenue,080702020608,Hurricane Creek-Comite River
+LDEQ319-4525,Temp_C,24,17.38,0,2014,2015,Shoe Creek at Pecos Avenue,080702020608,Hurricane Creek-Comite River
+LDEQ319-4525,pH,24,7.08,0,2014,2015,Shoe Creek at Pecos Avenue,080702020608,Hurricane Creek-Comite River
+LDEQ319-4531,DO_mgL,21,4.29,0,2014,2015,White Bayou at Comite Drive,080702020606,White Bayou
+LDEQ319-4531,SC_uScm,20,109.2,0,2014,2015,White Bayou at Comite Drive,080702020606,White Bayou
+LDEQ319-4531,Temp_C,21,17.3,0,2014,2015,White Bayou at Comite Drive,080702020606,White Bayou
+LDEQ319-4531,pH,21,6.98,0,2014,2015,White Bayou at Comite Drive,080702020606,White Bayou
+LDEQ319-4826,DO_mgL,14,7.075,0,2020,2021,Middle Amite River at Sandy Creek at Bridge on LA Highway 63,080702020501,Hunter Bayou-Sandy Creek
+LDEQ319-4826,SC_uScm,9,43.2,0,2020,2021,Middle Amite River at Sandy Creek at Bridge on LA Highway 63,080702020501,Hunter Bayou-Sandy Creek
+LDEQ319-4826,Temp_C,16,20.3,0,2020,2021,Middle Amite River at Sandy Creek at Bridge on LA Highway 63,080702020501,Hunter Bayou-Sandy Creek
+LDEQ319-4826,pH,10,8.01,0,2020,2021,Middle Amite River at Sandy Creek at Bridge on LA Highway 63,080702020501,Hunter Bayou-Sandy Creek
+LDEQ319-4827,DO_mgL,14,3.135,0,2020,2021,Middle Amite River at Sandy Creek at Bridge on LA Highway 959,080702020501,Hunter Bayou-Sandy Creek
+LDEQ319-4827,SC_uScm,9,48.3,0,2020,2021,Middle Amite River at Sandy Creek at Bridge on LA Highway 959,080702020501,Hunter Bayou-Sandy Creek
+LDEQ319-4827,Temp_C,16,20.49,0,2020,2021,Middle Amite River at Sandy Creek at Bridge on LA Highway 959,080702020501,Hunter Bayou-Sandy Creek
+LDEQ319-4827,pH,11,7.64,0,2020,2021,Middle Amite River at Sandy Creek at Bridge on LA Highway 959,080702020501,Hunter Bayou-Sandy Creek
+LDEQ319-4828,DO_mgL,14,5.655,0,2020,2021,Middle Amite River at Sandy Creek at Bridge on Carson Road,080702020504,Beaver Pond Bayou-Sandy Creek
+LDEQ319-4828,SC_uScm,9,66.3,0,2020,2021,Middle Amite River at Sandy Creek at Bridge on Carson Road,080702020504,Beaver Pond Bayou-Sandy Creek
+LDEQ319-4828,Temp_C,16,20.72,0,2020,2021,Middle Amite River at Sandy Creek at Bridge on Carson Road,080702020504,Beaver Pond Bayou-Sandy Creek
+LDEQ319-4828,pH,11,7.33,0,2020,2021,Middle Amite River at Sandy Creek at Bridge on Carson Road,080702020504,Beaver Pond Bayou-Sandy Creek
+LDEQ319-4829,DO_mgL,14,7.615,0,2020,2021,Middle Amite River at Sandy Creek at Bridge on LA Highway 37,080702020406,Kidds Creek-Amite River
+LDEQ319-4829,SC_uScm,9,60.8,0,2020,2021,Middle Amite River at Sandy Creek at Bridge on LA Highway 37,080702020406,Kidds Creek-Amite River
+LDEQ319-4829,Temp_C,16,21.05,0,2020,2021,Middle Amite River at Sandy Creek at Bridge on LA Highway 37,080702020406,Kidds Creek-Amite River
+LDEQ319-4829,pH,10,9.89,0,2020,2021,Middle Amite River at Sandy Creek at Bridge on LA Highway 37,080702020406,Kidds Creek-Amite River
+LDEQ319-4830,DO_mgL,13,4.83,0,2017,2021,Yellow Water River at bridge on LA Hwy 1064,080702030304,Yellow Water River
+LDEQ319-4830,SC_uScm,10,92.95,0,2017,2020,Yellow Water River at bridge on LA Hwy 1064,080702030304,Yellow Water River
+LDEQ319-4830,Temp_C,15,19.15,0,2017,2021,Yellow Water River at bridge on LA Hwy 1064,080702030304,Yellow Water River
+LDEQ319-4830,pH,11,6.83,0,2017,2020,Yellow Water River at bridge on LA Hwy 1064,080702030304,Yellow Water River
+LDEQ319-4831,DO_mgL,13,5.65,0,2017,2021,Yellow Water River at bridge on Wardline Road,080702030304,Yellow Water River
+LDEQ319-4831,SC_uScm,10,125.8,0,2017,2020,Yellow Water River at bridge on Wardline Road,080702030304,Yellow Water River
+LDEQ319-4831,Temp_C,15,19.6,0,2017,2021,Yellow Water River at bridge on Wardline Road,080702030304,Yellow Water River
+LDEQ319-4831,pH,11,7.17,0,2017,2020,Yellow Water River at bridge on Wardline Road,080702030304,Yellow Water River
+LDEQ319-4832,DO_mgL,13,7.76,0,2017,2021,Yellow Water River at bridge on Adams Road,080702030306,Still Branch-Natalbany River
+LDEQ319-4832,SC_uScm,10,214.8,0,2017,2020,Yellow Water River at bridge on Adams Road,080702030306,Still Branch-Natalbany River
+LDEQ319-4832,Temp_C,15,20.49,0,2017,2021,Yellow Water River at bridge on Adams Road,080702030306,Still Branch-Natalbany River
+LDEQ319-4832,pH,11,7.54,0,2017,2020,Yellow Water River at bridge on Adams Road,080702030306,Still Branch-Natalbany River
+LDEQ319-4865,DO_mgL,55,7.74,0,2020,2025,Middle Amite River at Sandy Creek at Bridge on LA Highway 190,080702020904,Clay Cut Bayou-Amite River
+LDEQ319-4865,SC_uScm,54,47.35,0,2020,2025,Middle Amite River at Sandy Creek at Bridge on LA Highway 190,080702020904,Clay Cut Bayou-Amite River
+LDEQ319-4865,Temp_C,70,23.71,0,2020,2025,Middle Amite River at Sandy Creek at Bridge on LA Highway 190,080702020904,Clay Cut Bayou-Amite River
+LDEQ319-4865,pH,63,7.23,0,2020,2025,Middle Amite River at Sandy Creek at Bridge on LA Highway 190,080702020904,Clay Cut Bayou-Amite River
+USGS-07375740,SC_uScm,10,50,0,2014,2014,"TICKFAW RIVER AT SR 568 NEAR GILLSBURG, MS",080702030101,West Branch Tickfaw River-Tickfaw River
+USGS-07375740,Temp_C,10,22.75,0,2014,2014,"TICKFAW RIVER AT SR 568 NEAR GILLSBURG, MS",080702030101,West Branch Tickfaw River-Tickfaw River
+USGS-07375740,Turb_NTU,10,8.65,0,2014,2014,"TICKFAW RIVER AT SR 568 NEAR GILLSBURG, MS",080702030101,West Branch Tickfaw River-Tickfaw River
+USGS-07375740,pH,9,5.8,0,2014,2014,"TICKFAW RIVER AT SR 568 NEAR GILLSBURG, MS",080702030101,West Branch Tickfaw River-Tickfaw River
+USGS-07375752,SC_uScm,8,50,0,2014,2014,"CUBA CREEK AT GILLSBURG, MS",080702030102,Cuba Creek-Tickfaw River
+USGS-07375752,Temp_C,8,22.2,0,2014,2014,"CUBA CREEK AT GILLSBURG, MS",080702030102,Cuba Creek-Tickfaw River
+USGS-07375752,Turb_NTU,8,8.25,0,2014,2014,"CUBA CREEK AT GILLSBURG, MS",080702030102,Cuba Creek-Tickfaw River
+USGS-07375752,pH,7,5.9,0,2014,2014,"CUBA CREEK AT GILLSBURG, MS",080702030102,Cuba Creek-Tickfaw River
+USGS-07376651,SC_uScm,8,78,0,2014,2014,"EAST FORK AMITE RIVER AT SWAMP RD NEAR PEORIA, MS",080702020105,Love Creek-East Fork Amite River
+USGS-07376651,Temp_C,8,20.3,0,2014,2014,"EAST FORK AMITE RIVER AT SWAMP RD NEAR PEORIA, MS",080702020105,Love Creek-East Fork Amite River
+USGS-07376651,Turb_NTU,8,5.85,0,2014,2014,"EAST FORK AMITE RIVER AT SWAMP RD NEAR PEORIA, MS",080702020105,Love Creek-East Fork Amite River
+USGS-07376651,pH,7,6.2,0,2014,2014,"EAST FORK AMITE RIVER AT SWAMP RD NEAR PEORIA, MS",080702020105,Love Creek-East Fork Amite River
+USGS-07376673,SC_uScm,10,32.5,0,2014,2014,"HOMINY CREEK NEAR PEORIA, MS",080702020104,Hominy Creek
+USGS-07376673,Temp_C,10,21.7,0,2014,2014,"HOMINY CREEK NEAR PEORIA, MS",080702020104,Hominy Creek
+USGS-07376673,Turb_NTU,10,6.3,0,2014,2014,"HOMINY CREEK NEAR PEORIA, MS",080702020104,Hominy Creek
+USGS-07376673,pH,9,6.1,0,2014,2014,"HOMINY CREEK NEAR PEORIA, MS",080702020104,Hominy Creek
+USGS-07376680,SC_uScm,10,64.5,0,2014,2014,"EAST FORK AMITE RIVER NR PEORIA, MS",080702020106,Cars Creek-East Fork Amite River
+USGS-07376680,Temp_C,10,22.7,0,2014,2014,"EAST FORK AMITE RIVER NR PEORIA, MS",080702020106,Cars Creek-East Fork Amite River
+USGS-07376680,Turb_NTU,10,6.35,0,2014,2014,"EAST FORK AMITE RIVER NR PEORIA, MS",080702020106,Cars Creek-East Fork Amite River
+USGS-07376680,pH,9,6.5,0,2014,2014,"EAST FORK AMITE RIVER NR PEORIA, MS",080702020106,Cars Creek-East Fork Amite River
+USGS-07376685,SC_uScm,8,60,0,2014,2014,"EAST FORK AMITE RIVER NR GILLSBURG, MS.",080702020106,Cars Creek-East Fork Amite River
+USGS-07376685,Temp_C,8,23,0,2014,2014,"EAST FORK AMITE RIVER NR GILLSBURG, MS.",080702020106,Cars Creek-East Fork Amite River
+USGS-07376685,Turb_NTU,8,5.6,0,2014,2014,"EAST FORK AMITE RIVER NR GILLSBURG, MS.",080702020106,Cars Creek-East Fork Amite River
+USGS-07376685,pH,7,6.6,0,2014,2014,"EAST FORK AMITE RIVER NR GILLSBURG, MS.",080702020106,Cars Creek-East Fork Amite River
+USGS-07376689,SC_uScm,10,40.5,0,2014,2014,"WEST FORK AMITE RIVER NEAR BROOKSIDE, MS",080702020201,Cotton Creek-West Fork Amite River
+USGS-07376689,Temp_C,9,19.7,0,2014,2014,"WEST FORK AMITE RIVER NEAR BROOKSIDE, MS",080702020201,Cotton Creek-West Fork Amite River
+USGS-07376689,Turb_NTU,10,8.75,0,2014,2014,"WEST FORK AMITE RIVER NEAR BROOKSIDE, MS",080702020201,Cotton Creek-West Fork Amite River
+USGS-07376689,pH,9,5.8,0,2014,2014,"WEST FORK AMITE RIVER NEAR BROOKSIDE, MS",080702020201,Cotton Creek-West Fork Amite River
+USGS-07376730,SC_uScm,8,37,0,2014,2014,"WEST FORK AMITE RIVER AT HWY 48 NEAR LIBERTY, MS",080702020205,Mill Creek-West Fork Amite River
+USGS-07376730,Temp_C,8,20.35,0,2014,2014,"WEST FORK AMITE RIVER AT HWY 48 NEAR LIBERTY, MS",080702020205,Mill Creek-West Fork Amite River
+USGS-07376730,Turb_NTU,8,12,0,2014,2014,"WEST FORK AMITE RIVER AT HWY 48 NEAR LIBERTY, MS",080702020205,Mill Creek-West Fork Amite River
+USGS-07376730,pH,7,6.5,0,2014,2014,"WEST FORK AMITE RIVER AT HWY 48 NEAR LIBERTY, MS",080702020205,Mill Creek-West Fork Amite River
+USGS-07376740,SC_uScm,8,37,0,2014,2014,"WAGGONER CREEK NEAR LIBERTY, MS",080702020205,Mill Creek-West Fork Amite River
+USGS-07376740,Temp_C,8,19.55,0,2014,2014,"WAGGONER CREEK NEAR LIBERTY, MS",080702020205,Mill Creek-West Fork Amite River
+USGS-07376740,Turb_NTU,8,8,0,2014,2014,"WAGGONER CREEK NEAR LIBERTY, MS",080702020205,Mill Creek-West Fork Amite River
+USGS-07376740,pH,7,6.2,0,2014,2014,"WAGGONER CREEK NEAR LIBERTY, MS",080702020205,Mill Creek-West Fork Amite River
+USGS-07376762,SC_uScm,10,37,0,2014,2014,"WEST FORK AMITE RIVER EAST OF STREET, MS",080702020205,Mill Creek-West Fork Amite River
+USGS-07376762,Temp_C,10,23.95,0,2014,2014,"WEST FORK AMITE RIVER EAST OF STREET, MS",080702020205,Mill Creek-West Fork Amite River
+USGS-07376762,Turb_NTU,10,9.15,0,2014,2014,"WEST FORK AMITE RIVER EAST OF STREET, MS",080702020205,Mill Creek-West Fork Amite River
+USGS-07376762,pH,9,6.3,0,2014,2014,"WEST FORK AMITE RIVER EAST OF STREET, MS",080702020205,Mill Creek-West Fork Amite River
+USGS-07376773,SC_uScm,10,61,0,2014,2014,"BEAVER CREEK AT HWY 48 NEAR CENTREVILLE, MS",080702020301,Little Beaver Creek-Beaver Creek
+USGS-07376773,Temp_C,10,21.2,0,2014,2014,"BEAVER CREEK AT HWY 48 NEAR CENTREVILLE, MS",080702020301,Little Beaver Creek-Beaver Creek
+USGS-07376773,Turb_NTU,10,11,0,2014,2014,"BEAVER CREEK AT HWY 48 NEAR CENTREVILLE, MS",080702020301,Little Beaver Creek-Beaver Creek
+USGS-07376773,pH,9,6.5,0,2014,2014,"BEAVER CREEK AT HWY 48 NEAR CENTREVILLE, MS",080702020301,Little Beaver Creek-Beaver Creek
+USGS-07376775,SC_uScm,10,55,0,2014,2014,"BEAVER CREEK NEAR BEECHWOOD, MS",080702020303,Outlet Beaver Creek
+USGS-07376775,Temp_C,10,23.5,0,2014,2014,"BEAVER CREEK NEAR BEECHWOOD, MS",080702020303,Outlet Beaver Creek
+USGS-07376775,Turb_NTU,10,9.65,0,2014,2014,"BEAVER CREEK NEAR BEECHWOOD, MS",080702020303,Outlet Beaver Creek
+USGS-07376775,pH,9,6.5,0,2014,2014,"BEAVER CREEK NEAR BEECHWOOD, MS",080702020303,Outlet Beaver Creek
+USGS-07377387,SC_uScm,10,56.5,0,2014,2014,"STAFFORD CREEK NEAR CENTREVILLE, MS",080702020602,Richland Creek-Comite Creek
+USGS-07377387,Temp_C,10,21.3,0,2014,2014,"STAFFORD CREEK NEAR CENTREVILLE, MS",080702020602,Richland Creek-Comite Creek
+USGS-07377387,Turb_NTU,10,10.5,0,2014,2014,"STAFFORD CREEK NEAR CENTREVILLE, MS",080702020602,Richland Creek-Comite Creek
+USGS-07377387,pH,10,6.4,0,2014,2014,"STAFFORD CREEK NEAR CENTREVILLE, MS",080702020602,Richland Creek-Comite Creek

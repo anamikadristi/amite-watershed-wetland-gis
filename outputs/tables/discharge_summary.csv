@@ -1,0 +1,4 @@
+site_no,n_days,median_cfs,p10_cfs,p90_cfs,max_cfs,first,last,name
+07377500,6528,69.9,41.0,277.3,41700.0,2000-01-01,2017-11-14,"Comite River near Comite, LA"
+07378500,9497,798.0,375.0,4144.0,202000.0,2000-01-01,2025-12-31,"Amite River near Denham Springs, LA"
+07380120,5209,897.0,282.0,4496.0,38600.0,2000-01-01,2015-09-29,"Amite River at Port Vincent, LA"
